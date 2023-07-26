@@ -40,9 +40,9 @@
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D)
 
-![Snake animation](https://github.com/vinyalme/vinyalme/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/vinyalme/vinyalme/blob/output/github-contribution-grid-snake.svg)
 
-<!--
+
 **vinyalme/vinyalme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
