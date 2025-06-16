@@ -32,13 +32,13 @@
 ## O que eu quero aprender
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-<!--!![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c) -->
-<!--!![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C) -->
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D)
+<!--!![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c) -->
+<!--!![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C) -->
 
 <!--![Snake animation](https://github.com/vinyalme/vinyalme/blob/output/github-contribution-grid-snake.svg)
 
