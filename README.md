@@ -1,4 +1,4 @@
-## Olá, meu nome é Vinicius Almeida👋.
+## Olá, meu nome é Vinicius Almeida👋
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
