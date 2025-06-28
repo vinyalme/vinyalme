@@ -1,11 +1,5 @@
 ## Olá, meu nome é Vinicius Almeida 👋
 
-Olá, meu nome é Vinicius Almeida 👋
-
-Sou apaixonado por desenvolvimento web e tecnologia.  
-Estou sempre aprendendo e compartilhando projetos que fazem a diferença.  
-Aqui você encontra minhas habilidades, linguagens que amo e o que estou estudando para crescer ainda mais.
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=vinyalme&theme=dark"/>
 </a>
@@ -13,7 +7,7 @@ Aqui você encontra minhas habilidades, linguagens que amo e o que estou estudan
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinyalme&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
-## 📬 Conecte-se comigo
+## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-peixoto-almeida/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/almeviny_/)
