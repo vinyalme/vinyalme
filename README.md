@@ -53,6 +53,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby" title="Ruby"/>
 </p>
 
+<p align="left">
+  <!-- Opção 1 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby" title="Ruby"/>
+  
+  <!-- Opção 2 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" height="40" alt="Ruby" title="Ruby"/>
+  
+  <!-- Opção 3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg" height="40" alt="Ruby" title="Ruby"/>
+</p>
 
 ## O que eu quero aprender
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
