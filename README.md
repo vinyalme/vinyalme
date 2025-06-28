@@ -16,6 +16,24 @@
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=mail.ru&logoColor=EA4335)](mailto:vialmeida04@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinyalme)
 
+## 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vinicius-peixoto-almeida/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/almeviny_/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" height="40" style="filter: invert(1);"/>
+  </a>
+  <a href="mailto:vialmeida04@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="40" style="filter: invert(1);"/>
+  </a>
+  <a href="https://github.com/vinyalme" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40"/>
+  </a>
+</p>
+
+
 ## 💼 Habilidades
 
 <p align="left">
