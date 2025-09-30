@@ -26,12 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 40px;" alt="React" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 40px;" alt="TypeScript" title="TypeScript"/>
 </p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cobol/cobol-original.svg" style="height: 40px;" alt="COBOL" title="COBOL"/>
-</p>
-
-
-
-
+  
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-peixoto-almeida/)
