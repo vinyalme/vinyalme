@@ -36,25 +36,28 @@
 
 
 # Vinicius Almeida  
-Backend & Data Engineer  
+Backend & Software Engineer  
 
-Building reliable systems, data-driven solutions and scalable back-end architectures.
+Designing structured systems, data-driven solutions and scalable backend architectures.
 
 ---
 
 ## 🚀 About Me
 
-I focus on backend development and data engineering, designing systems that transform business rules into structured, reliable and scalable solutions.
+I’m a backend-focused software engineer evolving through real-world problem solving and structured system design.
 
-Currently working on:
-- Financial calculation engines (acquiring & MDR logic)
-- Data modeling and automation workflows
-- Backend-oriented web applications
-- Structured business logic systems
+My work is centered on:
+- Business rule implementation
+- Financial calculation engines
+- Backend application logic
+- Data structuring and transformation
+- Automation workflows
+
+I build with a mindset of clarity, documentation and long-term maintainability.
 
 ---
 
-## 🧠 Core Stack
+## 🧠 Technical Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -63,37 +66,36 @@ Currently working on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </p>
 
----
-
-## 📊 Data & Backend Focus
-
-- Business rule modeling
-- Financial calculation logic
-- Data transformation pipelines
-- Process automation
-- System documentation & technical structuring
-- Spreadsheet-based simulation models (Excel as logic prototype layer)
+**Currently deepening knowledge in:**
+- System architecture principles
+- Backend scalability patterns
+- Clean code & design patterns
+- Data modeling strategies
 
 ---
 
-## 🏗 Featured Engineering Mindset
+## 🏗 Engineering Approach
 
-I build projects with:
-- Versioned logic
-- Clear documentation
-- Scalable structure
-- Real-world problem orientation
-- Incremental architecture evolution
+- Structured project documentation  
+- Versioned logic evolution  
+- Business-oriented technical thinking  
+- Incremental improvement mindset  
+- Focus on reliability over complexity  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=vinyalme&theme=dark&show_icons=true"/>
 </a>
 
 ---
+
+## 🌐 Connect
+
+[LinkedIn](https://www.linkedin.com/in/vinicius-peixoto-almeida/)  
+Email: vialmeida04@gmail.com
 
 ## 🌐 Connect
 
