@@ -34,53 +34,64 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vialmeida04@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinyalme)
 
-
 # Vinicius Almeida  
 Backend & Software Engineer  
 
-Designing structured systems, data-driven solutions and scalable backend architectures.
+Building structured backend systems and data-driven solutions.
 
 ---
 
 ## 🚀 About Me
 
-I’m a backend-focused software engineer evolving through real-world problem solving and structured system design.
+I am a backend-focused software engineer evolving through real-world problem solving and structured system design.
 
-My work is centered on:
-- Business rule implementation
-- Financial calculation engines
-- Backend application logic
-- Data structuring and transformation
-- Automation workflows
+My main interests include:
 
-I build with a mindset of clarity, documentation and long-term maintainability.
+- Backend application development  
+- Financial logic modeling  
+- Business rule implementation  
+- Data modeling & SQL structuring  
+- Automation and process optimization  
+
+I focus on clarity, maintainability and long-term architectural thinking.
 
 ---
 
-## 🧠 Technical Stack
+## 🧠 Backend & Data Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Currently deepening knowledge in:**
-- System architecture principles
-- Backend scalability patterns
-- Clean code & design patterns
-- Data modeling strategies
+---
+
+## 🚀 Current Projects
+
+### 🧮 LiquiCalc  
+Financial calculation engine focused on acquiring fees, MDR logic and receivables anticipation simulation.  
+Designed with structured business rules, versioned calculation logic and data modeling principles.
+
+### 🎮 Terminal RPG (.bat)  
+Logic-driven narrative system built using batch scripting.  
+Explores state management, decision trees and structured progression systems within a constrained environment.
+
+### 📦 Future Systems Repository  
+Structured roadmap repository for upcoming backend and data-oriented projects.
 
 ---
 
 ## 🏗 Engineering Approach
 
-- Structured project documentation  
-- Versioned logic evolution  
+- Structured and documented projects  
+- Clear separation of business rules and logic layers  
+- Version-controlled evolution of systems  
 - Business-oriented technical thinking  
-- Incremental improvement mindset  
-- Focus on reliability over complexity  
+- Incremental architecture improvement  
+
+I aim to design systems that are predictable, maintainable and scalable.
 
 ---
 
@@ -91,11 +102,6 @@ I build with a mindset of clarity, documentation and long-term maintainability.
 </a>
 
 ---
-
-## 🌐 Connect
-
-[LinkedIn](https://www.linkedin.com/in/vinicius-peixoto-almeida/)  
-Email: vialmeida04@gmail.com
 
 ## 🌐 Connect
 
