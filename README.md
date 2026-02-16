@@ -109,8 +109,6 @@ I aim to design systems that are predictable, maintainable and scalable.
 
 </div>
 
----
-
 ## 🌐 Connect
 
 <div align="center">
