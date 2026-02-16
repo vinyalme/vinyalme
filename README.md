@@ -101,9 +101,9 @@ I aim to design systems that are predictable, maintainable and scalable.
 
 ## 📊 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinyalme&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinyalme&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinyalme&theme=nord_bright&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinyalme&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinyalme&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinyalme&theme=github_dark&)
 
 ---
 
