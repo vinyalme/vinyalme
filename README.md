@@ -39,19 +39,6 @@ I focus on clarity, maintainability and long-term architectural thinking.
 ## 🚀 Current Projects
 
 ### 🧮 LiquiCalc  
-Financial calculation engine focused on acquiring fees, MDR logic and receivables anticipation simulation.  
-Designed with structured business rules, versioned calculation logic and data modeling principles.
-
-### 🎮 Terminal RPG (.bat)  
-Logic-driven narrative system built using batch scripting.  
-Explores state management, decision trees and structured progression systems within a constrained environment.
-
-### 📦 Future Systems Repository  
-Structured roadmap repository for upcoming backend and data-oriented projects.
-
-## 🚀 Current Projects
-
-### 🧮 LiquiCalc  
 A backend-oriented financial calculation project focused on acquiring fees, MDR logic and receivables anticipation simulation.  
 
 The goal is to structure business rules clearly and progressively evolve the calculation engine as new scenarios are modeled.
@@ -65,16 +52,6 @@ An experimental environment to explore decision trees, state transitions and str
 A structured space to document and plan upcoming backend and data-focused projects.
 
 ---
-
-## 🏗 Engineering Approach
-
-- Structured and documented projects  
-- Clear separation of business rules and logic layers  
-- Version-controlled evolution of systems  
-- Business-oriented technical thinking  
-- Incremental architecture improvement  
-
-I aim to design systems that are predictable, maintainable and scalable.
 
 ## 🏗 Engineering Mindset
 
