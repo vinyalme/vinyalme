@@ -49,6 +49,21 @@ Explores state management, decision trees and structured progression systems wit
 ### 📦 Future Systems Repository  
 Structured roadmap repository for upcoming backend and data-oriented projects.
 
+## 🚀 Current Projects
+
+### 🧮 LiquiCalc  
+A backend-oriented financial calculation project focused on acquiring fees, MDR logic and receivables anticipation simulation.  
+
+The goal is to structure business rules clearly and progressively evolve the calculation engine as new scenarios are modeled.
+
+### 🎮 Terminal RPG (.bat)  
+A logic-driven narrative project built with batch scripting.  
+
+An experimental environment to explore decision trees, state transitions and structured progression systems using simple tools.
+
+### 📦 Future Systems Repository  
+A structured space to document and plan upcoming backend and data-focused projects.
+
 ---
 
 ## 🏗 Engineering Approach
@@ -60,6 +75,16 @@ Structured roadmap repository for upcoming backend and data-oriented projects.
 - Incremental architecture improvement  
 
 I aim to design systems that are predictable, maintainable and scalable.
+
+## 🏗 Engineering Mindset
+
+- Clear organization of business rules  
+- Focus on readable and maintainable logic  
+- Continuous improvement through iteration  
+- Practical problem-solving approach  
+- Preference for structure over improvisation  
+
+I aim to build systems that grow in complexity without losing clarity.
 
 ---
 
