@@ -53,18 +53,6 @@ A structured space to document and plan upcoming backend and data-focused projec
 
 ---
 
-## 🏗 Engineering Mindset
-
-- Clear organization of business rules  
-- Focus on readable and maintainable logic  
-- Continuous improvement through iteration  
-- Practical problem-solving approach  
-- Preference for structure over improvisation  
-
-I aim to build systems that grow in complexity without losing clarity.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
