@@ -43,7 +43,7 @@ A backend-oriented financial calculation project focused on acquiring fees, MDR 
 
 The goal is to structure business rules clearly and progressively evolve the calculation engine as new scenarios are modeled.
 
-### 🎮 Terminal RPG (.bat)  
+### 🎮 Terminal RPG (Protocolo Turing)  
 A logic-driven narrative project built with batch scripting.  
 
 An experimental environment to explore decision trees, state transitions and structured progression systems using simple tools.
