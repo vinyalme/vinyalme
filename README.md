@@ -38,7 +38,7 @@ I focus on clarity, maintainability and long-term architectural thinking.
 
 ## 🚀 Current Projects
 
-### 🧮 LiquiCalc  
+### 💳 LiquiCalc  
 A backend-oriented financial calculation project focused on acquiring fees, MDR logic and receivables anticipation simulation.  
 
 The goal is to structure business rules clearly and progressively evolve the calculation engine as new scenarios are modeled.
